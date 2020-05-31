@@ -14,7 +14,7 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="Save">
     <property name="geometry">
      <rect>
       <x>480</x>
@@ -469,7 +469,7 @@
      <string>Save</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_2">
+   <widget class="QPushButton" name="Reset">
     <property name="geometry">
      <rect>
       <x>480</x>
@@ -924,7 +924,7 @@
      <string>Reset</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_3">
+   <widget class="QPushButton" name="New">
     <property name="geometry">
      <rect>
       <x>480</x>
@@ -1379,7 +1379,7 @@
      <string>New</string>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit">
+   <widget class="QTextEdit" name="polje1">
     <property name="geometry">
      <rect>
       <x>130</x>
@@ -1838,7 +1838,7 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2';&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_2">
+   <widget class="QTextEdit" name="polje2">
     <property name="geometry">
      <rect>
       <x>160</x>
@@ -38005,7 +38005,7 @@ p, li { white-space: pre-wrap; }
      </palette>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_4">
+   <widget class="QPushButton" name="Load">
     <property name="geometry">
      <rect>
       <x>480</x>
@@ -38460,7 +38460,7 @@ p, li { white-space: pre-wrap; }
      <string>Load</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_5">
+   <widget class="QPushButton" name="Quit">
     <property name="geometry">
      <rect>
       <x>480</x>
